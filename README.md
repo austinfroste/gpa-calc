@@ -1,2 +1,2 @@
 # gpa-calc
-A simple cla gpa calculator
+A simple command line argument GPA calculator.
